@@ -1,5 +1,5 @@
 #1 Some git command related to heroku
-1 first install heroku cli if it is a new system (and heroku cli is not installed in it)
+1 first install heroku cli if it is a new system (if heroku cli is not installed in it)
 2. $ Heroku login
 3. follow the steps given in that  in that heroku commandline page.....
 4 $ git push heroku master
