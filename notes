@@ -1,0 +1,11 @@
+#1 Some git command related to heroku
+1 first install heroku cli if it is a new system (and heroku cli is not installed in it)
+2. $ Heroku login
+3. follow the steps given in that  in that heroku commandline page.....
+4 $ git push heroku master
+
+
+#2 To push already created repo (as for heroku a git repository is already created) to gitgub , just add two commndline 
+$ git remote add origin <paste link of repo created newlyon github> eg (https://github.com/smilyamit/flask_onheroku.git)
+$ git push origin master
+#3 check for status ( eg $ git status, if there is anything extra to add on github)
