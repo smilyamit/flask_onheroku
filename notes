@@ -1,4 +1,4 @@
-#1 Some git command related to heroku
+# 1 Some git command related to heroku
 1 first install heroku cli if it is a new system (if heroku cli is not installed in it)
 2. $ Heroku login
 3. follow the steps given in that  in that heroku commandline page.....
@@ -11,3 +11,4 @@ $ git push origin master
 
 #3 check for status ( eg $ git status, if there is anything extra to add on github)
 #4 working directory(/Users/koro/PycharmProjects/flask_webscrapper)
+#
